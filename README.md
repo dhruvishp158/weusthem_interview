@@ -4,5 +4,5 @@
 - run command npm i
 - then cd client
 - then npm i
--then cd ..
+- then cd ..
 - npm run dev
